@@ -1,0 +1,2 @@
+This BMI calculator was created using Python Tkinter. It needs your height and weight, and after clicking the button, you can see your BMI.
+I created an exe file using auto-py-to-exe in this application.
